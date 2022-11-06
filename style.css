@@ -1,0 +1,32 @@
+header {
+  background-color: #71681b;
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-size: 20px;
+  letter-spacing: 0.6px;
+  line-height: 30px;
+}
+
+article {
+  background-color: #f4e89d;
+  text-align: auto;
+  max-width: 850px;
+  margin: auto;
+  padding: 15px;
+  padding-top: 40px;
+}
+
+article p {
+  font-size: 16px;
+  margin: auto;
+}
+
+footer {
+  background-color: #b6970e;
+  max-width: 850px;
+  margin: auto;
+  padding: 20px 15px;
+  margin-bottom: 70px;
+}
